@@ -5,8 +5,7 @@ Current new site:
 https://www.cognipedia.net/
 
 New site:
-https://643c3a5f82aa9100087e4d86--effervescent-youtiao-83a891.netlify.app/
-
+https://643c3bd91692d900082f6905--effervescent-youtiao-83a891.netlify.app/
 
 ## To Do List of Improvements
 
