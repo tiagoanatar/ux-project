@@ -82,7 +82,7 @@ export function EmailBanner() {
           <Button color="gray" size="lg">Browse Cognis</Button>
         </div>
       </div>
-      <iframe src="/public/nodes.svg"></iframe>
+      <iframe src="/nodes.svg"></iframe>
       </Flex>
     </div>
   );
