@@ -9,7 +9,7 @@ New site:
 
 ## To Do List of Improvements
 
-#### 1 - Problem
+### 1 - Problem
 - Too few menu items in order ot make the site engaging and professional. Poorly made hover effect with unprofessional underline style.
 ###### Solution
 - The menu bar received new items + a more engaging user menu experience.
